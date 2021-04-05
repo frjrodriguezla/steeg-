@@ -1,0 +1,9 @@
+README.md
+setup.cfg
+setup.py
+src/steeg.py
+src/steeg.egg-info/PKG-INFO
+src/steeg.egg-info/SOURCES.txt
+src/steeg.egg-info/dependency_links.txt
+src/steeg.egg-info/requires.txt
+src/steeg.egg-info/top_level.txt
